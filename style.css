@@ -22,7 +22,7 @@ time, mark, audio, video {
 }
 
 body {
-    line-height:2;
+    line-height:1;
 }
 
 article,aside,details,figcaption,figure,
@@ -287,15 +287,14 @@ section .sec_img4
 .wrappper1{
   min-height: 150vh;
   margin: 0 auto;
-  display: flex;
-  flex-direction: column;
+  display: inline-block;
   justify-content: left;
   align-items: left;
   font-family: 'raleway',sans-serif;
   color: #fff;
 }
 .cards{
-  display: flex;
+  display: inline-block;
   justify-content: left;
   align-items: left;
   width:1200px;
