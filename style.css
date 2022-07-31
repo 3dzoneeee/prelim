@@ -289,15 +289,15 @@ section .sec_img4
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
   font-family: 'raleway',sans-serif;
   color: #fff;
 }
 .cards{
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
   width:1200px;
   margin: 0 auto;
 }
