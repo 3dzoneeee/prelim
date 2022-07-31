@@ -163,7 +163,7 @@ section .sec_img
 {
   height: 500px;
   margin-top: 0px;
-  background-image: url("images/4.jpg");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkRJIvRMRBeaUVAfkl2SXAJ8E3YJ_LpwjCBA&usqp=CAU");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -195,7 +195,7 @@ section .sec_img1
 {
   height: 500px;
   margin-top: 0px;
-  background-image: url("images/18.jpg");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAkQGvAGB01Egnl7Bm7Ohj1UmrCs_b78Jdkg&usqp=CAU");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -224,7 +224,7 @@ section .sec_img2
 {
   height: 500px;
   margin-top: 0px;
-  background-image: url("images/15.jpg");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwKCnAteZZ-Z_3uo8AmVLnmKhqWdPuVEuZxA&usqp=CAU");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -274,8 +274,8 @@ span
 section .sec_img4
 {
   height: 500px;
-  margin-top: 0px;
-  background-image: url("images/24.jpg");
+  margin-top: 10px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwgK9AgzW1PomI7wEjng6hVcRyrXl5CgqQcw&usqp=CAU");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -302,7 +302,7 @@ section .sec_img4
   margin: 0 auto;
 }
 .card{
-  width: 380px;
+  width: 400px;
   height: 500px;
   border-radius: 15px;
   margin: 7px;
@@ -344,3 +344,6 @@ section .sec_img4
   background: black;
   z-index: 500;
 }
+
+
+
